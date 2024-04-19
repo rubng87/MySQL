@@ -1,0 +1,1166 @@
+Microsoft Windows [Versión 10.0.22631.3296]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\Matins>cd \
+
+C:\>cd xampp\mysql\bin
+
+C:\xampp\mysql\bin>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: 12EA-E5DC
+
+ Directorio de C:\xampp\mysql\bin
+
+02/04/2024  08:42    <DIR>          .
+02/04/2024  08:39    <DIR>          ..
+15/07/2022  18:07            21.984 api-ms-win-core-console-l1-1-0.dll
+15/07/2022  18:07            22.008 api-ms-win-core-console-l1-2-0.dll
+15/07/2022  18:07            22.008 api-ms-win-core-datetime-l1-1-0.dll
+15/07/2022  18:07            21.984 api-ms-win-core-debug-l1-1-0.dll
+15/07/2022  18:07            21.976 api-ms-win-core-errorhandling-l1-1-0.dll
+15/07/2022  18:07            21.984 api-ms-win-core-fibers-l1-1-0.dll
+15/07/2022  18:07            26.080 api-ms-win-core-file-l1-1-0.dll
+15/07/2022  18:07            21.976 api-ms-win-core-file-l1-2-0.dll
+15/07/2022  18:07            22.008 api-ms-win-core-file-l2-1-0.dll
+15/07/2022  18:07            21.976 api-ms-win-core-handle-l1-1-0.dll
+15/07/2022  18:07            21.984 api-ms-win-core-heap-l1-1-0.dll
+15/07/2022  18:07            21.984 api-ms-win-core-interlocked-l1-1-0.dll
+15/07/2022  18:07            21.976 api-ms-win-core-libraryloader-l1-1-0.dll
+15/07/2022  18:07            21.976 api-ms-win-core-localization-l1-2-0.dll
+15/07/2022  18:07            22.008 api-ms-win-core-memory-l1-1-0.dll
+15/07/2022  18:07            22.008 api-ms-win-core-namedpipe-l1-1-0.dll
+15/07/2022  18:07            21.992 api-ms-win-core-processenvironment-l1-1-0.dll
+15/07/2022  18:07            21.984 api-ms-win-core-processthreads-l1-1-0.dll
+15/07/2022  18:07            22.008 api-ms-win-core-processthreads-l1-1-1.dll
+15/07/2022  18:07            21.976 api-ms-win-core-profile-l1-1-0.dll
+15/07/2022  18:07            22.008 api-ms-win-core-rtlsupport-l1-1-0.dll
+15/07/2022  18:07            21.976 api-ms-win-core-string-l1-1-0.dll
+15/07/2022  18:07            21.976 api-ms-win-core-synch-l1-1-0.dll
+15/07/2022  18:07            21.976 api-ms-win-core-synch-l1-2-0.dll
+15/07/2022  18:07            22.008 api-ms-win-core-sysinfo-l1-1-0.dll
+15/07/2022  18:07            21.984 api-ms-win-core-timezone-l1-1-0.dll
+15/07/2022  18:07            22.008 api-ms-win-core-util-l1-1-0.dll
+15/07/2022  18:07            22.008 api-ms-win-crt-conio-l1-1-0.dll
+15/07/2022  18:07            26.080 api-ms-win-crt-convert-l1-1-0.dll
+15/07/2022  18:07            22.008 api-ms-win-crt-environment-l1-1-0.dll
+15/07/2022  18:07            21.976 api-ms-win-crt-filesystem-l1-1-0.dll
+15/07/2022  18:07            21.976 api-ms-win-crt-heap-l1-1-0.dll
+15/07/2022  18:07            22.000 api-ms-win-crt-locale-l1-1-0.dll
+15/07/2022  18:07            30.200 api-ms-win-crt-math-l1-1-0.dll
+15/07/2022  18:07            30.200 api-ms-win-crt-multibyte-l1-1-0.dll
+15/07/2022  18:07            75.232 api-ms-win-crt-private-l1-1-0.dll
+15/07/2022  18:07            21.984 api-ms-win-crt-process-l1-1-0.dll
+15/07/2022  18:07            26.072 api-ms-win-crt-runtime-l1-1-0.dll
+15/07/2022  18:07            26.072 api-ms-win-crt-stdio-l1-1-0.dll
+15/07/2022  18:07            26.104 api-ms-win-crt-string-l1-1-0.dll
+15/07/2022  18:07            21.984 api-ms-win-crt-time-l1-1-0.dll
+15/07/2022  18:07            22.008 api-ms-win-crt-utility-l1-1-0.dll
+30/10/2023  14:59         4.495.784 aria_chk.exe
+30/10/2023  14:59         4.073.896 aria_dump_log.exe
+30/10/2023  14:59         4.309.416 aria_ftdump.exe
+30/10/2023  14:59         4.352.936 aria_pack.exe
+30/10/2023  14:59         4.475.816 aria_read_log.exe
+11/10/2023  10:42           327.576 concrt140.dll
+30/10/2023  14:58         3.495.336 innochecksum.exe
+30/10/2023  14:58        15.732.648 mariabackup.exe
+30/10/2023  14:58         3.426.728 mbstream.exe
+11/10/2023  10:42           578.384 msvcp140.dll
+11/10/2023  10:42            35.704 msvcp140_1.dll
+11/10/2023  10:42           267.160 msvcp140_2.dll
+11/10/2023  10:42            50.072 msvcp140_atomic_wait.dll
+11/10/2023  10:42            31.640 msvcp140_codecvt_ids.dll
+02/04/2024  08:42             5.776 my.ini
+30/10/2023  14:59         3.739.560 myisamchk.exe
+30/10/2023  14:59         3.620.264 myisamlog.exe
+30/10/2023  14:59         3.639.720 myisampack.exe
+30/10/2023  14:59         3.603.368 myisam_ftdump.exe
+30/10/2023  14:49            25.746 myrocks_hotbackup
+30/10/2023  14:58         3.784.616 mysql.exe
+30/10/2023  14:58         3.688.360 mysqladmin.exe
+30/10/2023  14:58         3.822.504 mysqlbinlog.exe
+30/10/2023  14:58         3.700.648 mysqlcheck.exe
+30/10/2023  14:59        16.664.488 mysqld.exe
+30/10/2023  14:58         3.774.888 mysqldump.exe
+30/10/2023  14:49             8.478 mysqldumpslow.pl
+30/10/2023  14:49            28.628 mysqld_multi.pl
+30/10/2023  14:49            36.124 mysqlhotcopy.pl
+30/10/2023  14:58         3.673.000 mysqlimport.exe
+30/10/2023  14:58         3.672.488 mysqlshow.exe
+30/10/2023  14:58         3.690.408 mysqlslap.exe
+30/10/2023  14:49             8.878 mysql_config.pl
+30/10/2023  14:49             4.384 mysql_convert_table_format.pl
+30/10/2023  14:59         5.574.568 mysql_install_db.exe
+30/10/2023  14:59         3.345.832 mysql_ldb.exe
+30/10/2023  14:58         3.413.928 mysql_plugin.exe
+30/10/2023  14:59         3.426.728 mysql_tzinfo_to_sql.exe
+30/10/2023  14:58         3.522.984 mysql_upgrade.exe
+30/10/2023  14:59         3.406.760 mysql_upgrade_service.exe
+30/10/2023  14:59         2.673.576 mysql_upgrade_wizard.exe
+30/10/2023  14:58         3.418.536 my_print_defaults.exe
+30/10/2023  14:58         3.542.440 perror.exe
+30/10/2023  14:58         3.396.008 replace.exe
+30/10/2023  14:59         1.482.664 sst_dump.exe
+15/07/2022  18:07         1.123.832 ucrtbase.dll
+11/10/2023  10:42           109.440 vcruntime140.dll
+30/05/2022  12:57            44.320 vcruntime140_1.dll
+              90 archivos    146.340.758 bytes
+               2 dirs  196.023.857.152 bytes libres
+
+C:\xampp\mysql\bin>dir mysql.exe
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: 12EA-E5DC
+
+ Directorio de C:\xampp\mysql\bin
+
+30/10/2023  14:58         3.784.616 mysql.exe
+               1 archivos      3.784.616 bytes
+               0 dirs  196.023.857.152 bytes libres
+
+C:\xampp\mysql\bin>mysql -u root -h localhost -p
+Enter password:
+Welcome to the MariaDB monitor.  Commands end with ; or \g.
+Your MariaDB connection id is 216
+Server version: 10.4.32-MariaDB mariadb.org binary distribution
+
+Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+MariaDB [(none)]> show databases
+    ->
+    ->
+    ->
+    ->
+    -> exit
+    -> bye
+    -> Bye
+Ctrl-C -- exit!
+
+C:\xampp\mysql\bin>
+C:\xampp\mysql\bin> mysql -u root -h localhost -p
+Enter password:
+Welcome to the MariaDB monitor.  Commands end with ; or \g.
+Your MariaDB connection id is 217
+Server version: 10.4.32-MariaDB mariadb.org binary distribution
+
+Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+MariaDB [(none)]> show databases
+    -> Bye
+Ctrl-C -- exit!
+
+C:\xampp\mysql\bin> mysql -u root -h localhost -p
+Enter password:
+Welcome to the MariaDB monitor.  Commands end with ; or \g.
+Your MariaDB connection id is 218
+Server version: 10.4.32-MariaDB mariadb.org binary distribution
+
+Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+MariaDB [(none)]> show databases;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| mysql              |
+| performance_schema |
+| phpmyadmin         |
+| test               |
+| tienda             |
++--------------------+
+6 rows in set (0.001 sec)
+
+MariaDB [(none)]> create databases escuela;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'databases escuela' at line 1
+MariaDB [(none)]> show databases;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| mysql              |
+| performance_schema |
+| phpmyadmin         |
+| test               |
+| tienda             |
++--------------------+
+6 rows in set (0.001 sec)
+
+MariaDB [(none)]> show databases escuela;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'escuela' at line 1
+MariaDB [(none)]> show database escuela;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'database escuela' at line 1
+MariaDB [(none)]> create database escuela;
+Query OK, 1 row affected (0.001 sec)
+
+MariaDB [(none)]> show databases ;
++--------------------+
+| Database           |
++--------------------+
+| escuela            |
+| information_schema |
+| mysql              |
+| performance_schema |
+| phpmyadmin         |
+| test               |
+| tienda             |
++--------------------+
+7 rows in set (0.001 sec)
+
+MariaDB [(none)]> use escuela;
+Database changed
+MariaDB [escuela]> create table alumnos (id_alumno INT(2) NOT NULL AUTO INCREMENT, nombre VARCHAR(20) );
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AUTO INCREMENT, nombre VARCHAR(20) )' at line 1
+MariaDB [escuela]> create table alumnos (id_alumno INT(2) NOT NULL AUTO INCREMENT, nombre VARCHAR (20) );
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AUTO INCREMENT, nombre VARCHAR (20) )' at line 1
+MariaDB [escuela]> create table alumnos (id_alumno INT(2) NOT NULL AUTO_INCREMENT, nombre VARCHAR(20) );
+ERROR 1075 (42000): Incorrect table definition; there can be only one auto column and it must be defined as a key
+MariaDB [escuela]> create table alumnos (id_alumno INT(2) NOT_NULL AUTO_INCREMENT, nombre VARCHAR(20) );
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AUTO_INCREMENT, nombre VARCHAR(20) )' at line 1
+MariaDB [escuela]> create table alumnos (`id_alumno` INT(2) NOT NULL AUTO_INCREMENT, `nombre` VARCHAR(20) );
+ERROR 1075 (42000): Incorrect table definition; there can be only one auto column and it must be defined as a key
+MariaDB [escuela]> create table alumnos (id_alumno INT(2) NOT NULL AUTO_INCREMENT, nombre VARCHAR(20), PRIMARY KEY (id_alumno) );
+Query OK, 0 rows affected (0.010 sec)
+
+MariaDB [escuela]> SELECT * FROM alumnos;
+Empty set (0.003 sec)
+
+MariaDB [escuela]> INSERT INTO alumnos (nombre) VALUES ('Maria');
+Query OK, 1 row affected (0.002 sec)
+
+MariaDB [escuela]> SELECT * FROM alumnos;
++-----------+--------+
+| id_alumno | nombre |
++-----------+--------+
+|         1 | Maria  |
++-----------+--------+
+1 row in set (0.001 sec)
+
+MariaDB [escuela]> INSERT INTO alumnos (nombre) VALUES ('Marta'), ('John'), ('Schrek');
+Query OK, 3 rows affected (0.002 sec)
+Records: 3  Duplicates: 0  Warnings: 0
+
+MariaDB [escuela]> SELECT * FROM alumnos;
++-----------+--------+
+| id_alumno | nombre |
++-----------+--------+
+|         1 | Maria  |
+|         2 | Marta  |
+|         3 | John   |
+|         4 | Schrek |
++-----------+--------+
+4 rows in set (0.001 sec)
+
+MariaDB [escuela]> DELETE FROM alumnos WHERE id_alumno = 3;
+Query OK, 1 row affected (0.002 sec)
+
+MariaDB [escuela]> SELECT * FROM alumnos;
++-----------+--------+
+| id_alumno | nombre |
++-----------+--------+
+|         1 | Maria  |
+|         2 | Marta  |
+|         4 | Schrek |
++-----------+--------+
+3 rows in set (0.000 sec)
+
+MariaDB [escuela]> show tables;
++-------------------+
+| Tables_in_escuela |
++-------------------+
+| alumnos           |
++-------------------+
+1 row in set (0.001 sec)
+
+MariaDB [escuela]> DELETE FROM alumnos WHERE nombre = 'Maria';
+Query OK, 1 row affected (0.002 sec)
+
+MariaDB [escuela]> SELECT * FROM alumnos;
++-----------+--------+
+| id_alumno | nombre |
++-----------+--------+
+|         2 | Marta  |
+|         4 | Schrek |
++-----------+--------+
+2 rows in set (0.001 sec)
+
+MariaDB [escuela]> INSERT INTO alumnos (nombre) VALUES ('Marta'), ('John'), ('Schrek'), ('Maribel'), ('Juan'), ('Maria');
+Query OK, 6 rows affected (0.002 sec)
+Records: 6  Duplicates: 0  Warnings: 0
+
+MariaDB [escuela]> SELECT * FROM alumnos;
++-----------+---------+
+| id_alumno | nombre  |
++-----------+---------+
+|         2 | Marta   |
+|         4 | Schrek  |
+|         5 | Marta   |
+|         6 | John    |
+|         7 | Schrek  |
+|         8 | Maribel |
+|         9 | Juan    |
+|        10 | Maria   |
++-----------+---------+
+8 rows in set (0.001 sec)
+
+MariaDB [escuela]> SELECT nombre  FROMA alumnos WHERE nombre LIKE 'J%';
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'alumnos WHERE nombre LIKE 'J%'' at line 1
+MariaDB [escuela]> SELECT nombre  FROM alumnos WHERE nombre LIKE 'J%';
++--------+
+| nombre |
++--------+
+| John   |
+| Juan   |
++--------+
+2 rows in set (0.001 sec)
+
+MariaDB [escuela]> SELECT nombre  FROM alumnos WHERE nombre LIKE 'M%';
++---------+
+| nombre  |
++---------+
+| Marta   |
+| Marta   |
+| Maribel |
+| Maria   |
++---------+
+4 rows in set (0.001 sec)
+
+MariaDB [escuela]> SELECT nombre  FROM alumnos WHERE nombre LIKE '%N';
++--------+
+| nombre |
++--------+
+| John   |
+| Juan   |
++--------+
+2 rows in set (0.001 sec)
+
+MariaDB [escuela]> SELECT nombre  FROM alumnos WHERE nombre LIKE '%A%';
++---------+
+| nombre  |
++---------+
+| Marta   |
+| Marta   |
+| Maribel |
+| Juan    |
+| Maria   |
++---------+
+5 rows in set (0.001 sec)
+
+MariaDB [escuela]> SELECT nombre  FROM alumnos WHERE nombre LIKE '?A%';
+Empty set (0.001 sec)
+
+MariaDB [escuela]> SELECT nombre  FROM alumnos WHERE nombre LIKE '?a%';
+Empty set (0.001 sec)
+
+MariaDB [escuela]> SELECT * FROM alumnos;
++-----------+---------+
+| id_alumno | nombre  |
++-----------+---------+
+|         2 | Marta   |
+|         4 | Schrek  |
+|         5 | Marta   |
+|         6 | John    |
+|         7 | Schrek  |
+|         8 | Maribel |
+|         9 | Juan    |
+|        10 | Maria   |
++-----------+---------+
+8 rows in set (0.001 sec)
+
+MariaDB [escuela]> UPDATE alumnos SET nombre = 'Bill' WHERE id_alumno = 7;
+Query OK, 1 row affected (0.002 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+MariaDB [escuela]> SELECT * FROM alumnos;
++-----------+---------+
+| id_alumno | nombre  |
++-----------+---------+
+|         2 | Marta   |
+|         4 | Schrek  |
+|         5 | Marta   |
+|         6 | John    |
+|         7 | Bill    |
+|         8 | Maribel |
+|         9 | Juan    |
+|        10 | Maria   |
++-----------+---------+
+8 rows in set (0.001 sec)
+
+MariaDB [escuela]> UPDATE alumnos SET id_alumnno = 2 where id_alumno = 8;
+ERROR 1054 (42S22): Unknown column 'id_alumnno' in 'field list'
+MariaDB [escuela]> UPDATE alumnos SET id_alumno = 2 where id_alumno = 8;
+ERROR 1062 (23000): Duplicate entry '2' for key 'PRIMARY'
+MariaDB [escuela]> UPDATE alumnos SET id_alumno = 3 where id_alumno = 8;
+Query OK, 1 row affected (0.001 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+MariaDB [escuela]> SELECT * FROM alumnos;ç
++-----------+---------+
+| id_alumno | nombre  |
++-----------+---------+
+|         2 | Marta   |
+|         3 | Maribel |
+|         4 | Schrek  |
+|         5 | Marta   |
+|         6 | John    |
+|         7 | Bill    |
+|         9 | Juan    |
+|        10 | Maria   |
++-----------+---------+
+8 rows in set (0.001 sec)
+
+    -> UPDATE alumnos SET id_alumno = 3 where id_alumno = 8;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ç
+UPDATE alumnos SET id_alumno = 3 where id_alumno = 8' at line 1
+MariaDB [escuela]> INSERT INTO alumnos (id_alumno, nombre) VALUES (1, 'Paul');
+Query OK, 1 row affected (0.003 sec)
+
+MariaDB [escuela]> SELECT * FROM alumnos;
++-----------+---------+
+| id_alumno | nombre  |
++-----------+---------+
+|         1 | Paul    |
+|         2 | Marta   |
+|         3 | Maribel |
+|         4 | Schrek  |
+|         5 | Marta   |
+|         6 | John    |
+|         7 | Bill    |
+|         9 | Juan    |
+|        10 | Maria   |
++-----------+---------+
+9 rows in set (0.001 sec)
+
+MariaDB [escuela]> DELETE FROMA  alumnos;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'alumnos' at line 1
+MariaDB [escuela]> DELETE FROM  alumnos;
+Query OK, 9 rows affected (0.002 sec)
+
+MariaDB [escuela]> SELECT * FROM alumnos;
+Empty set (0.000 sec)
+
+MariaDB [escuela]> show tables;
++-------------------+
+| Tables_in_escuela |
++-------------------+
+| alumnos           |
++-------------------+
+1 row in set (0.001 sec)
+
+MariaDB [escuela]> DROP table alumnos;
+Query OK, 0 rows affected (0.008 sec)
+
+MariaDB [escuela]> SELECT * FROM alumnos;
+ERROR 1146 (42S02): Table 'escuela.alumnos' doesn't exist
+MariaDB [escuela]> show databases
+    -> DROP DATABASE escuela;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DROP DATABASE escuela' at line 2
+MariaDB [escuela]> SELECT * FROM alumnos;
+ERROR 1146 (42S02): Table 'escuela.alumnos' doesn't exist
+MariaDB [escuela]> SELECT * FROM alumnos;
+ERROR 1146 (42S02): Table 'escuela.alumnos' doesn't exist
+MariaDB [escuela]> DROP DATABASE escuela;
+Query OK, 0 rows affected (0.002 sec)
+
+MariaDB [(none)]> show databases;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| mysql              |
+| performance_schema |
+| phpmyadmin         |
+| test               |
+| tienda             |
++--------------------+
+6 rows in set (0.001 sec)
+
+MariaDB [(none)]> use tienda;
+Database changed
+MariaDB [tienda]> show tables;
++------------------+
+| Tables_in_tienda |
++------------------+
+| productos        |
++------------------+
+1 row in set (0.001 sec)
+
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+----------+-----------------------------------------------+------------+
+| id_productos | nombre   | descripcion                                   | fecha      |
++--------------+----------+-----------------------------------------------+------------+
+|            1 | manzanas | Manzanas ecológicas de temporada, muy frescas | 2024-04-02 |
++--------------+----------+-----------------------------------------------+------------+
+1 row in set (0.001 sec)
+
+MariaDB [tienda]> INSERT INTO alumnos (id_productos, nombre) VALUES (2, 'Mandarinas');
+ERROR 1146 (42S02): Table 'tienda.alumnos' doesn't exist
+MariaDB [tienda]> INSERT INTO producto (id_productos, nombre) VALUES (2, 'Mandarinas');
+ERROR 1146 (42S02): Table 'tienda.producto' doesn't exist
+MariaDB [tienda]> INSERT INTO tienda (id_productos, nombre) VALUES (2, 'Mandarinas');
+ERROR 1146 (42S02): Table 'tienda.tienda' doesn't exist
+MariaDB [tienda]> INSERT INTO productos (nombre, descripcion, fecha ) VALUES ('Mandarina', 'lilas y bonitas', '');
+Query OK, 1 row affected, 1 warning (0.002 sec)
+
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+-----------+-----------------------------------------------+------------+
+| id_productos | nombre    | descripcion                                   | fecha      |
++--------------+-----------+-----------------------------------------------+------------+
+|            1 | manzanas  | Manzanas ecológicas de temporada, muy frescas | 2024-04-02 |
+|            2 | Mandarina | lilas y bonitas                               | 0000-00-00 |
++--------------+-----------+-----------------------------------------------+------------+
+2 rows in set (0.001 sec)
+
+MariaDB [tienda]> INSERT INTO productos (nombre, descripcion) VALUES ('Mandarinas', 'lilas y bonitas');
+Query OK, 1 row affected, 1 warning (0.002 sec)
+
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+------------+-----------------------------------------------+------------+
+| id_productos | nombre     | descripcion                                   | fecha      |
++--------------+------------+-----------------------------------------------+------------+
+|            1 | manzanas   | Manzanas ecológicas de temporada, muy frescas | 2024-04-02 |
+|            2 | Mandarina  | lilas y bonitas                               | 0000-00-00 |
+|            3 | Mandarinas | lilas y bonitas                               | 2024-04-02 |
++--------------+------------+-----------------------------------------------+------------+
+3 rows in set (0.000 sec)
+
+MariaDB [tienda]> INSERT INTO productos (nombre, descripcion, fecha ) VALUES ('Naranjas', 'de temporada', '2024-04-01');
+
+Query OK, 1 row affected (0.002 sec)
+
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+------------+-----------------------------------------------+------------+
+| id_productos | nombre     | descripcion                                   | fecha      |
++--------------+------------+-----------------------------------------------+------------+
+|            1 | manzanas   | Manzanas ecológicas de temporada, muy frescas | 2024-04-02 |
+|            2 | Mandarina  | lilas y bonitas                               | 0000-00-00 |
+|            3 | Mandarinas | lilas y bonitas                               | 2024-04-02 |
+|            4 | Naranjas   | de temporada                                  | 2024-04-01 |
++--------------+------------+-----------------------------------------------+------------+
+4 rows in set (0.001 sec)
+
+MariaDB [tienda]> INSERT INTO productos (nombre, descripcion, fecha ) VALUES ('Limones', 'de temporada y buenas', '2024-
+04-01');
+Query OK, 1 row affected (0.002 sec)
+
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+------------+-----------------------------------------------+------------+
+| id_productos | nombre     | descripcion                                   | fecha      |
++--------------+------------+-----------------------------------------------+------------+
+|            1 | manzanas   | Manzanas ecológicas de temporada, muy frescas | 2024-04-02 |
+|            2 | Mandarina  | lilas y bonitas                               | 0000-00-00 |
+|            3 | Mandarinas | lilas y bonitas                               | 2024-04-02 |
+|            4 | Naranjas   | de temporada                                  | 2024-04-01 |
+|            5 | Limones    | de temporada y buenas                         | 2024-04-01 |
++--------------+------------+-----------------------------------------------+------------+
+5 rows in set (0.001 sec)
+
+MariaDB [tienda]> UPDATE alumnos SET id_productos = 3 where id_productos = 2;
+ERROR 1146 (42S02): Table 'tienda.alumnos' doesn't exist
+MariaDB [tienda]> DELETE FROM productos WHERE nombre = 'Mandarina';
+Query OK, 1 row affected (0.002 sec)
+
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+------------+-----------------------------------------------+------------+
+| id_productos | nombre     | descripcion                                   | fecha      |
++--------------+------------+-----------------------------------------------+------------+
+|            1 | manzanas   | Manzanas ecológicas de temporada, muy frescas | 2024-04-02 |
+|            3 | Mandarinas | lilas y bonitas                               | 2024-04-02 |
+|            4 | Naranjas   | de temporada                                  | 2024-04-01 |
+|            5 | Limones    | de temporada y buenas                         | 2024-04-01 |
++--------------+------------+-----------------------------------------------+------------+
+4 rows in set (0.001 sec)
+
+MariaDB [tienda]> UPDATE productos SET id_productos = 3 where id_productos = 2;
+Query OK, 0 rows affected (0.001 sec)
+Rows matched: 0  Changed: 0  Warnings: 0
+
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+------------+-----------------------------------------------+------------+
+| id_productos | nombre     | descripcion                                   | fecha      |
++--------------+------------+-----------------------------------------------+------------+
+|            1 | manzanas   | Manzanas ecológicas de temporada, muy frescas | 2024-04-02 |
+|            3 | Mandarinas | lilas y bonitas                               | 2024-04-02 |
+|            4 | Naranjas   | de temporada                                  | 2024-04-01 |
+|            5 | Limones    | de temporada y buenas                         | 2024-04-01 |
++--------------+------------+-----------------------------------------------+------------+
+4 rows in set (0.001 sec)
+
+MariaDB [tienda]> UPDATE productos SET id_productos = 2 where id_productos = 3;
+Query OK, 1 row affected (0.002 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+------------+-----------------------------------------------+------------+
+| id_productos | nombre     | descripcion                                   | fecha      |
++--------------+------------+-----------------------------------------------+------------+
+|            1 | manzanas   | Manzanas ecológicas de temporada, muy frescas | 2024-04-02 |
+|            2 | Mandarinas | lilas y bonitas                               | 2024-04-02 |
+|            4 | Naranjas   | de temporada                                  | 2024-04-01 |
+|            5 | Limones    | de temporada y buenas                         | 2024-04-01 |
++--------------+------------+-----------------------------------------------+------------+
+4 rows in set (0.000 sec)
+
+MariaDB [tienda]> UPDATE productos SET id_productos = 4 where id_productos = 3;
+Query OK, 0 rows affected (0.001 sec)
+Rows matched: 0  Changed: 0  Warnings: 0
+
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+------------+-----------------------------------------------+------------+
+| id_productos | nombre     | descripcion                                   | fecha      |
++--------------+------------+-----------------------------------------------+------------+
+|            1 | manzanas   | Manzanas ecológicas de temporada, muy frescas | 2024-04-02 |
+|            2 | Mandarinas | lilas y bonitas                               | 2024-04-02 |
+|            4 | Naranjas   | de temporada                                  | 2024-04-01 |
+|            5 | Limones    | de temporada y buenas                         | 2024-04-01 |
++--------------+------------+-----------------------------------------------+------------+
+4 rows in set (0.001 sec)
+
+MariaDB [tienda]> UPDATE productos SET id_productos = 3 where id_productos = 4;
+Query OK, 1 row affected (0.002 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+------------+-----------------------------------------------+------------+
+| id_productos | nombre     | descripcion                                   | fecha      |
++--------------+------------+-----------------------------------------------+------------+
+|            1 | manzanas   | Manzanas ecológicas de temporada, muy frescas | 2024-04-02 |
+|            2 | Mandarinas | lilas y bonitas                               | 2024-04-02 |
+|            3 | Naranjas   | de temporada                                  | 2024-04-01 |
+|            5 | Limones    | de temporada y buenas                         | 2024-04-01 |
++--------------+------------+-----------------------------------------------+------------+
+4 rows in set (0.000 sec)
+
+MariaDB [tienda]> UPDATE productos SET id_productos = 5 where id_productos = 4;
+Query OK, 0 rows affected (0.000 sec)
+Rows matched: 0  Changed: 0  Warnings: 0
+
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+------------+-----------------------------------------------+------------+
+| id_productos | nombre     | descripcion                                   | fecha      |
++--------------+------------+-----------------------------------------------+------------+
+|            1 | manzanas   | Manzanas ecológicas de temporada, muy frescas | 2024-04-02 |
+|            2 | Mandarinas | lilas y bonitas                               | 2024-04-02 |
+|            3 | Naranjas   | de temporada                                  | 2024-04-01 |
+|            5 | Limones    | de temporada y buenas                         | 2024-04-01 |
++--------------+------------+-----------------------------------------------+------------+
+4 rows in set (0.000 sec)
+
+MariaDB [tienda]> UPDATE productos SET id_productos = 4 where id_productos = 5;
+Query OK, 1 row affected (0.002 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+------------+-----------------------------------------------+------------+
+| id_productos | nombre     | descripcion                                   | fecha      |
++--------------+------------+-----------------------------------------------+------------+
+|            1 | manzanas   | Manzanas ecológicas de temporada, muy frescas | 2024-04-02 |
+|            2 | Mandarinas | lilas y bonitas                               | 2024-04-02 |
+|            3 | Naranjas   | de temporada                                  | 2024-04-01 |
+|            4 | Limones    | de temporada y buenas                         | 2024-04-01 |
++--------------+------------+-----------------------------------------------+------------+
+4 rows in set (0.000 sec)
+
+MariaDB [tienda]> UPDATE productos SET manzanas descripcion = Manzanas ecológicas de temporada;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'descripcion = Manzanas ecológicas de temporada' at line 1
+MariaDB [tienda]> UPDATE productos SET id_productos = 1 where descripcion = Manzanas ecológicas de temporada;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ecológicas de temporada' at line 1
+MariaDB [tienda]> UPDATE productos SET id_productos = 1 where descripcion = 'Manzanas ecológicas de temporada';
+Query OK, 0 rows affected (0.001 sec)
+Rows matched: 0  Changed: 0  Warnings: 0
+
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+------------+-----------------------------------------------+------------+
+| id_productos | nombre     | descripcion                                   | fecha      |
++--------------+------------+-----------------------------------------------+------------+
+|            1 | manzanas   | Manzanas ecológicas de temporada, muy frescas | 2024-04-02 |
+|            2 | Mandarinas | lilas y bonitas                               | 2024-04-02 |
+|            3 | Naranjas   | de temporada                                  | 2024-04-01 |
+|            4 | Limones    | de temporada y buenas                         | 2024-04-01 |
++--------------+------------+-----------------------------------------------+------------+
+4 rows in set (0.001 sec)
+
+MariaDB [tienda]> UPDATE productos SET descripcion = "Manzanas ecológicas de temporada, frescas" WHERE nombre = manzanas;
+ERROR 1054 (42S22): Unknown column 'manzanas' in 'where clause'
+MariaDB [tienda]> UPDATE productos SET descripcion = "Manzanas ecológicas de temporada, frescas" WHERE nombre = 'manzana
+s';
+Query OK, 1 row affected (0.001 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+------------+-------------------------------------------+------------+
+| id_productos | nombre     | descripcion                               | fecha      |
++--------------+------------+-------------------------------------------+------------+
+|            1 | manzanas   | Manzanas ecológicas de temporada, frescas | 2024-04-02 |
+|            2 | Mandarinas | lilas y bonitas                           | 2024-04-02 |
+|            3 | Naranjas   | de temporada                              | 2024-04-01 |
+|            4 | Limones    | de temporada y buenas                     | 2024-04-01 |
++--------------+------------+-------------------------------------------+------------+
+4 rows in set (0.001 sec)
+
+MariaDB [tienda]> UPDATE productos SET fecha = "2024-03-02" WHERE nombre = 'manzanas';
+Query OK, 1 row affected (0.002 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+------------+-------------------------------------------+------------+
+| id_productos | nombre     | descripcion                               | fecha      |
++--------------+------------+-------------------------------------------+------------+
+|            1 | manzanas   | Manzanas ecológicas de temporada, frescas | 2024-03-02 |
+|            2 | Mandarinas | lilas y bonitas                           | 2024-04-02 |
+|            3 | Naranjas   | de temporada                              | 2024-04-01 |
+|            4 | Limones    | de temporada y buenas                     | 2024-04-01 |
++--------------+------------+-------------------------------------------+------------+
+4 rows in set (0.000 sec)
+
+MariaDB [tienda]> UPDATE productos SET fecha = "2024-03-02" WHERE nombre = 'Mandarinas';
+Query OK, 1 row affected (0.002 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+------------+-------------------------------------------+------------+
+| id_productos | nombre     | descripcion                               | fecha      |
++--------------+------------+-------------------------------------------+------------+
+|            1 | manzanas   | Manzanas ecológicas de temporada, frescas | 2024-03-02 |
+|            2 | Mandarinas | lilas y bonitas                           | 2024-03-02 |
+|            3 | Naranjas   | de temporada                              | 2024-04-01 |
+|            4 | Limones    | de temporada y buenas                     | 2024-04-01 |
++--------------+------------+-------------------------------------------+------------+
+4 rows in set (0.001 sec)
+
+MariaDB [tienda]> UPDATE productos SET nombre = "Manzanas" WHERE nombre = 'manzanas';
+Query OK, 1 row affected (0.002 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+------------+-------------------------------------------+------------+
+| id_productos | nombre     | descripcion                               | fecha      |
++--------------+------------+-------------------------------------------+------------+
+|            1 | Manzanas   | Manzanas ecológicas de temporada, frescas | 2024-03-02 |
+|            2 | Mandarinas | lilas y bonitas                           | 2024-03-02 |
+|            3 | Naranjas   | de temporada                              | 2024-04-01 |
+|            4 | Limones    | de temporada y buenas                     | 2024-04-01 |
++--------------+------------+-------------------------------------------+------------+
+4 rows in set (0.001 sec)
+
+MariaDB [tienda]> UPDATE productos SET descripcion = "Acabadas de traer del huerto" WHERE nombre = 'Mandarinas';
+Query OK, 1 row affected (0.002 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+------------+-------------------------------------------+------------+
+| id_productos | nombre     | descripcion                               | fecha      |
++--------------+------------+-------------------------------------------+------------+
+|            1 | Manzanas   | Manzanas ecológicas de temporada, frescas | 2024-03-02 |
+|            2 | Mandarinas | Acabadas de traer del huerto              | 2024-03-02 |
+|            3 | Naranjas   | de temporada                              | 2024-04-01 |
+|            4 | Limones    | de temporada y buenas                     | 2024-04-01 |
++--------------+------------+-------------------------------------------+------------+
+4 rows in set (0.000 sec)
+
+MariaDB [tienda]> UPDATE productos SET descripcion = "De nuestro propio huerto" WHERE nombre = 'Naranjas';
+Query OK, 1 row affected (0.001 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+MariaDB [tienda]> UPDATE productos SET descripcion = "De nuestro propio huerto" WHERE nombre = 'Limones';
+Query OK, 1 row affected (0.002 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+------------+-------------------------------------------+------------+
+| id_productos | nombre     | descripcion                               | fecha      |
++--------------+------------+-------------------------------------------+------------+
+|            1 | Manzanas   | Manzanas ecológicas de temporada, frescas | 2024-03-02 |
+|            2 | Mandarinas | Acabadas de traer del huerto              | 2024-03-02 |
+|            3 | Naranjas   | De nuestro propio huerto                  | 2024-04-01 |
+|            4 | Limones    | De nuestro propio huerto                  | 2024-04-01 |
++--------------+------------+-------------------------------------------+------------+
+4 rows in set (0.001 sec)
+
+MariaDB [tienda]> UPDATE productos SET fecha = "2024-03-30" WHERE "2024-03-02";
+Query OK, 4 rows affected, 1 warning (0.002 sec)
+Rows matched: 4  Changed: 4  Warnings: 1
+
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+------------+-------------------------------------------+------------+
+| id_productos | nombre     | descripcion                               | fecha      |
++--------------+------------+-------------------------------------------+------------+
+|            1 | Manzanas   | Manzanas ecológicas de temporada, frescas | 2024-03-30 |
+|            2 | Mandarinas | Acabadas de traer del huerto              | 2024-03-30 |
+|            3 | Naranjas   | De nuestro propio huerto                  | 2024-03-30 |
+|            4 | Limones    | De nuestro propio huerto                  | 2024-03-30 |
++--------------+------------+-------------------------------------------+------------+
+4 rows in set (0.001 sec)
+
+MariaDB [tienda]> UPDATE productos SET fecha = "2024-03-30" WHERE "2024-04-01";
+Query OK, 0 rows affected, 1 warning (0.001 sec)
+Rows matched: 4  Changed: 0  Warnings: 1
+
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+------------+-------------------------------------------+------------+
+| id_productos | nombre     | descripcion                               | fecha      |
++--------------+------------+-------------------------------------------+------------+
+|            1 | Manzanas   | Manzanas ecológicas de temporada, frescas | 2024-03-30 |
+|            2 | Mandarinas | Acabadas de traer del huerto              | 2024-03-30 |
+|            3 | Naranjas   | De nuestro propio huerto                  | 2024-03-30 |
+|            4 | Limones    | De nuestro propio huerto                  | 2024-03-30 |
++--------------+------------+-------------------------------------------+------------+
+4 rows in set (0.001 sec)
+
+MariaDB [tienda]> UPDATE productos SET fecha = "2024-04-01" WHERE "2024-04-01";
+Query OK, 4 rows affected, 1 warning (0.001 sec)
+Rows matched: 4  Changed: 4  Warnings: 1
+
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+------------+-------------------------------------------+------------+
+| id_productos | nombre     | descripcion                               | fecha      |
++--------------+------------+-------------------------------------------+------------+
+|            1 | Manzanas   | Manzanas ecológicas de temporada, frescas | 2024-04-01 |
+|            2 | Mandarinas | Acabadas de traer del huerto              | 2024-04-01 |
+|            3 | Naranjas   | De nuestro propio huerto                  | 2024-04-01 |
+|            4 | Limones    | De nuestro propio huerto                  | 2024-04-01 |
++--------------+------------+-------------------------------------------+------------+
+4 rows in set (0.001 sec)
+
+MariaDB [tienda]> UPDATE productos SET fecha = "2024-03-30" WHERE nombre = 'Mandarinas';
+Query OK, 1 row affected (0.002 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+------------+-------------------------------------------+------------+
+| id_productos | nombre     | descripcion                               | fecha      |
++--------------+------------+-------------------------------------------+------------+
+|            1 | Manzanas   | Manzanas ecológicas de temporada, frescas | 2024-04-01 |
+|            2 | Mandarinas | Acabadas de traer del huerto              | 2024-03-30 |
+|            3 | Naranjas   | De nuestro propio huerto                  | 2024-04-01 |
+|            4 | Limones    | De nuestro propio huerto                  | 2024-04-01 |
++--------------+------------+-------------------------------------------+------------+
+4 rows in set (0.001 sec)
+
+MariaDB [tienda]> UPDATE productos SET fecha = "2024-03-30" WHERE nombre = 'Manzanas';
+Query OK, 1 row affected (0.002 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+------------+-------------------------------------------+------------+
+| id_productos | nombre     | descripcion                               | fecha      |
++--------------+------------+-------------------------------------------+------------+
+|            1 | Manzanas   | Manzanas ecológicas de temporada, frescas | 2024-03-30 |
+|            2 | Mandarinas | Acabadas de traer del huerto              | 2024-03-30 |
+|            3 | Naranjas   | De nuestro propio huerto                  | 2024-04-01 |
+|            4 | Limones    | De nuestro propio huerto                  | 2024-04-01 |
++--------------+------------+-------------------------------------------+------------+
+4 rows in set (0.000 sec)
+
+MariaDB [tienda]> SELECT nombre, fecha FROM productos ORDER BY fecha DESC;
++------------+------------+
+| nombre     | fecha      |
++------------+------------+
+| Naranjas   | 2024-04-01 |
+| Limones    | 2024-04-01 |
+| Manzanas   | 2024-03-30 |
+| Mandarinas | 2024-03-30 |
++------------+------------+
+4 rows in set (0.001 sec)
+
+MariaDB [tienda]> SELECT nombre, fecha FROM productos ORDER BY fecha DESC, nombre ASC;
++------------+------------+
+| nombre     | fecha      |
++------------+------------+
+| Limones    | 2024-04-01 |
+| Naranjas   | 2024-04-01 |
+| Mandarinas | 2024-03-30 |
+| Manzanas   | 2024-03-30 |
++------------+------------+
+4 rows in set (0.001 sec)
+
+MariaDB [tienda]> SELECT nombre, fecha FROM productos ORDER BY fecha DESC, nombre ASC LIMIT 1;
++---------+------------+
+| nombre  | fecha      |
++---------+------------+
+| Limones | 2024-04-01 |
++---------+------------+
+1 row in set (0.001 sec)
+
+MariaDB [tienda]> SELECT nombre, fecha FROM productos ORDER BY fecha DESC, nombre ASC LIMIT 2;
++----------+------------+
+| nombre   | fecha      |
++----------+------------+
+| Limones  | 2024-04-01 |
+| Naranjas | 2024-04-01 |
++----------+------------+
+2 rows in set (0.000 sec)
+
+MariaDB [tienda]> SELECT nombre  FROM productos WHERE nombre LIKE 'N%';
++----------+
+| nombre   |
++----------+
+| Naranjas |
++----------+
+1 row in set (0.001 sec)
+
+MariaDB [tienda]> SELECT DISTINCT fecha, nombre FROM productos;
++------------+------------+
+| fecha      | nombre     |
++------------+------------+
+| 2024-03-30 | Manzanas   |
+| 2024-03-30 | Mandarinas |
+| 2024-04-01 | Naranjas   |
+| 2024-04-01 | Limones    |
++------------+------------+
+4 rows in set (0.001 sec)
+
+MariaDB [tienda]> SELECT DISTINCT fecha FROM productos;
++------------+
+| fecha      |
++------------+
+| 2024-03-30 |
+| 2024-04-01 |
++------------+
+2 rows in set (0.001 sec)
+
+MariaDB [tienda]> SELECT COUNT(+) FROM productos;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') FROM productos' at line 1
+MariaDB [tienda]> SELECT COUNT(*) FROM productos;
++----------+
+| COUNT(*) |
++----------+
+|        4 |
++----------+
+1 row in set (0.000 sec)
+
+MariaDB [tienda]> SELECT COUNT(DISTINCT fecha) FROM productos;
++-----------------------+
+| COUNT(DISTINCT fecha) |
++-----------------------+
+|                     2 |
++-----------------------+
+1 row in set (0.001 sec)
+
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+------------+-------------------------------------------+--------+------+------------+
+| id_productos | nombre     | descripcion                               | precio | IVA  | fecha      |
++--------------+------------+-------------------------------------------+--------+------+------------+
+|            1 | Manzanas   | Manzanas ecológicas de temporada, frescas |   0.00 | 0.03 | 2024-03-30 |
+|            2 | Mandarinas | Acabadas de traer del huerto              |   0.00 | 0.03 | 2024-03-30 |
+|            3 | Naranjas   | De nuestro propio huerto                  |   0.00 | 0.03 | 2024-04-01 |
+|            4 | Limones    | De nuestro propio huerto                  |   0.00 | 0.03 | 2024-04-01 |
++--------------+------------+-------------------------------------------+--------+------+------------+
+4 rows in set (0.001 sec)
+
+MariaDB [tienda]> UPDATE productos SET fecha = "2024-04-01" WHERE IVA = "0.05"
+    -> UPDATE productos SET fecha = "2024-04-01" WHERE iva = "0.05"
+    -> SELECT * FROM productos;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'UPDATE productos SET fecha = "2024-04-01" WHERE iva = "0.05"
+SELECT * FROM p...' at line 2
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+------------+-------------------------------------------+--------+------+------------+
+| id_productos | nombre     | descripcion                               | precio | IVA  | fecha      |
++--------------+------------+-------------------------------------------+--------+------+------------+
+|            1 | Manzanas   | Manzanas ecológicas de temporada, frescas |   0.00 | 0.03 | 2024-03-30 |
+|            2 | Mandarinas | Acabadas de traer del huerto              |   0.00 | 0.03 | 2024-03-30 |
+|            3 | Naranjas   | De nuestro propio huerto                  |   0.00 | 0.03 | 2024-04-01 |
+|            4 | Limones    | De nuestro propio huerto                  |   0.00 | 0.03 | 2024-04-01 |
++--------------+------------+-------------------------------------------+--------+------+------------+
+4 rows in set (0.001 sec)
+
+MariaDB [tienda]> UPDATE productos SET fecha = "2024-04-01" WHERE IVA = "0.05" ;
+Query OK, 0 rows affected (0.000 sec)
+Rows matched: 0  Changed: 0  Warnings: 0
+
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+------------+-------------------------------------------+--------+------+------------+
+| id_productos | nombre     | descripcion                               | precio | IVA  | fecha      |
++--------------+------------+-------------------------------------------+--------+------+------------+
+|            1 | Manzanas   | Manzanas ecológicas de temporada, frescas |   0.00 | 0.03 | 2024-03-30 |
+|            2 | Mandarinas | Acabadas de traer del huerto              |   0.00 | 0.03 | 2024-03-30 |
+|            3 | Naranjas   | De nuestro propio huerto                  |   0.00 | 0.03 | 2024-04-01 |
+|            4 | Limones    | De nuestro propio huerto                  |   0.00 | 0.03 | 2024-04-01 |
++--------------+------------+-------------------------------------------+--------+------+------------+
+4 rows in set (0.001 sec)
+
+MariaDB [tienda]> UPDATE productos SET IVA = "0.05" WHERE fecha = "2024-04-01"
+    -> UPDATE productos SET IVA = "0.05" WHERE fecha = "2024-04-01";
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'UPDATE productos SET IVA = "0.05" WHERE fecha = "2024-04-01"' at line 2
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+------------+-------------------------------------------+--------+------+------------+
+| id_productos | nombre     | descripcion                               | precio | IVA  | fecha      |
++--------------+------------+-------------------------------------------+--------+------+------------+
+|            1 | Manzanas   | Manzanas ecológicas de temporada, frescas |   0.00 | 0.03 | 2024-03-30 |
+|            2 | Mandarinas | Acabadas de traer del huerto              |   0.00 | 0.03 | 2024-03-30 |
+|            3 | Naranjas   | De nuestro propio huerto                  |   0.00 | 0.03 | 2024-04-01 |
+|            4 | Limones    | De nuestro propio huerto                  |   0.00 | 0.03 | 2024-04-01 |
++--------------+------------+-------------------------------------------+--------+------+------------+
+4 rows in set (0.001 sec)
+
+MariaDB [tienda]> UPDATE productos SET IVA = "0.05" WHERE fecha = "2024-04-01";
+Query OK, 2 rows affected (0.003 sec)
+Rows matched: 2  Changed: 2  Warnings: 0
+
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+------------+-------------------------------------------+--------+------+------------+
+| id_productos | nombre     | descripcion                               | precio | IVA  | fecha      |
++--------------+------------+-------------------------------------------+--------+------+------------+
+|            1 | Manzanas   | Manzanas ecológicas de temporada, frescas |   0.00 | 0.03 | 2024-03-30 |
+|            2 | Mandarinas | Acabadas de traer del huerto              |   0.00 | 0.03 | 2024-03-30 |
+|            3 | Naranjas   | De nuestro propio huerto                  |   0.00 | 0.05 | 2024-04-01 |
+|            4 | Limones    | De nuestro propio huerto                  |   0.00 | 0.05 | 2024-04-01 |
++--------------+------------+-------------------------------------------+--------+------+------------+
+4 rows in set (0.001 sec)
+
+MariaDB [tienda]> INSERT INTO productos (nombre, descripcion, fecha ) VALUES ('Limones', 'de temporada y buenas', '2024-
+
+    '> SELECT * FROM productos;
+    '> SELECT * FROM productos;
+    '> 05-01;
+    '> 05-01';
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+------------+-------------------------------------------+--------+------+------------+
+| id_productos | nombre     | descripcion                               | precio | IVA  | fecha      |
++--------------+------------+-------------------------------------------+--------+------+------------+
+|            1 | Manzanas   | Manzanas ecológicas de temporada, frescas |   0.00 | 0.03 | 2024-03-30 |
+|            2 | Mandarinas | Acabadas de traer del huerto              |   0.00 | 0.03 | 2024-03-30 |
+|            3 | Naranjas   | De nuestro propio huerto                  |   0.00 | 0.05 | 2024-04-01 |
+|            4 | Limones    | De nuestro propio huerto                  |   0.00 | 0.05 | 2024-04-01 |
++--------------+------------+-------------------------------------------+--------+------+------------+
+4 rows in set (0.001 sec)
+
+MariaDB [tienda]> INSERT INTO productos (nombre, descripcion, fecha) VALUES ('Kiwis', 'kiwis ecológicos de mi casa', '20
+24-05-01');
+Query OK, 1 row affected, 1 warning (0.002 sec)
+
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+------------+-------------------------------------------+--------+------+------------+
+| id_productos | nombre     | descripcion                               | precio | IVA  | fecha      |
++--------------+------------+-------------------------------------------+--------+------+------------+
+|            1 | Manzanas   | Manzanas ecológicas de temporada, frescas |   0.00 | 0.03 | 2024-03-30 |
+|            2 | Mandarinas | Acabadas de traer del huerto              |   0.00 | 0.03 | 2024-03-30 |
+|            3 | Naranjas   | De nuestro propio huerto                  |   0.00 | 0.05 | 2024-04-01 |
+|            4 | Limones    | De nuestro propio huerto                  |   0.00 | 0.05 | 2024-04-01 |
+|            6 | Kiwis      | kiwis ecológicos de mi casa               |   0.00 | 0.03 | 2024-05-01 |
++--------------+------------+-------------------------------------------+--------+------+------------+
+5 rows in set (0.000 sec)
+
+MariaDB [tienda]> UPDATE productos SET precio = "3.50" WHERE fecha = "2024-03-30";
+Query OK, 2 rows affected (0.001 sec)
+Rows matched: 2  Changed: 2  Warnings: 0
+
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+------------+-------------------------------------------+--------+------+------------+
+| id_productos | nombre     | descripcion                               | precio | IVA  | fecha      |
++--------------+------------+-------------------------------------------+--------+------+------------+
+|            1 | Manzanas   | Manzanas ecológicas de temporada, frescas |   3.50 | 0.03 | 2024-03-30 |
+|            2 | Mandarinas | Acabadas de traer del huerto              |   3.50 | 0.03 | 2024-03-30 |
+|            3 | Naranjas   | De nuestro propio huerto                  |   0.00 | 0.05 | 2024-04-01 |
+|            4 | Limones    | De nuestro propio huerto                  |   0.00 | 0.05 | 2024-04-01 |
+|            6 | Kiwis      | kiwis ecológicos de mi casa               |   0.00 | 0.03 | 2024-05-01 |
++--------------+------------+-------------------------------------------+--------+------+------------+
+5 rows in set (0.000 sec)
+
+MariaDB [tienda]> UPDATE productos SET precio = "4.50" WHERE precio = "0.00";
+Query OK, 3 rows affected (0.002 sec)
+Rows matched: 3  Changed: 3  Warnings: 0
+
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+------------+-------------------------------------------+--------+------+------------+
+| id_productos | nombre     | descripcion                               | precio | IVA  | fecha      |
++--------------+------------+-------------------------------------------+--------+------+------------+
+|            1 | Manzanas   | Manzanas ecológicas de temporada, frescas |   3.50 | 0.03 | 2024-03-30 |
+|            2 | Mandarinas | Acabadas de traer del huerto              |   3.50 | 0.03 | 2024-03-30 |
+|            3 | Naranjas   | De nuestro propio huerto                  |   4.50 | 0.05 | 2024-04-01 |
+|            4 | Limones    | De nuestro propio huerto                  |   4.50 | 0.05 | 2024-04-01 |
+|            6 | Kiwis      | kiwis ecológicos de mi casa               |   4.50 | 0.03 | 2024-05-01 |
++--------------+------------+-------------------------------------------+--------+------+------------+
+5 rows in set (0.001 sec)
+
+MariaDB [tienda]> UPDATE productos SET IVA = 0.10 WHERE fecha >"2024-03-31";
+Query OK, 3 rows affected (0.003 sec)
+Rows matched: 3  Changed: 3  Warnings: 0
+
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+------------+-------------------------------------------+--------+------+------------+
+| id_productos | nombre     | descripcion                               | precio | IVA  | fecha      |
++--------------+------------+-------------------------------------------+--------+------+------------+
+|            1 | Manzanas   | Manzanas ecológicas de temporada, frescas |   3.50 | 0.03 | 2024-03-30 |
+|            2 | Mandarinas | Acabadas de traer del huerto              |   3.50 | 0.03 | 2024-03-30 |
+|            3 | Naranjas   | De nuestro propio huerto                  |   4.50 | 0.10 | 2024-04-01 |
+|            4 | Limones    | De nuestro propio huerto                  |   4.50 | 0.10 | 2024-04-01 |
+|            6 | Kiwis      | kiwis ecológicos de mi casa               |   4.50 | 0.10 | 2024-05-01 |
++--------------+------------+-------------------------------------------+--------+------+------------+
+5 rows in set (0.001 sec)
+
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+------------+-------------------------------------------+--------+------+------------+
+| id_productos | nombre     | descripcion                               | precio | IVA  | fecha      |
++--------------+------------+-------------------------------------------+--------+------+------------+
+|            1 | Manzanas   | Manzanas ecológicas de temporada, frescas |   3.50 | 0.03 | 2024-03-30 |
+|            2 | Mandarinas | Acabadas de traer del huerto              |   3.50 | 0.03 | 2024-03-30 |
+|            3 | Naranjas   | De nuestro propio huerto                  |   4.50 | 0.10 | 2024-04-01 |
+|            4 | Limones    | De nuestro propio huerto                  |   4.50 | 0.10 | 2024-04-01 |
+|            6 | Kiwis      | kiwis ecológicos de mi casa               |   4.50 | 0.10 | 2024-05-01 |
++--------------+------------+-------------------------------------------+--------+------+------------+
+5 rows in set (0.000 sec)
+
+MariaDB [tienda]> SELECT * FROM productos fecha = <"2024-05-01";
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= <"2024-05-01"' at line 1
+MariaDB [tienda]> SELECT FROM productos fecha = <"2024-05-01";
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM productos fecha = <"2024-05-01"' at line 1
+MariaDB [tienda]> SELECT productos fecha = <"2024-05-01";
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= <"2024-05-01"' at line 1
+MariaDB [tienda]> INSERT INTO productos (nombre, descripcion, fecha) VALUES ('plátanos', 'Ecológicos', '2024-04-05')
+    -> INSERT INTO productos (nombre, descripcion, fecha) VALUES ('Plátanos', 'Ecológicos', '2024-04-05');
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'INSERT INTO productos (nombre, descripcion, fecha) VALUES ('Plátanos', 'Ecol...' at line 2
+MariaDB [tienda]> INSERT INTO productos (nombre, descripcion, fecha) VALUES ('Plátanos', 'Ecológicos', '2024-04-05');
+Query OK, 1 row affected, 1 warning (0.002 sec)
+
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+------------+-------------------------------------------+--------+------+------------+
+| id_productos | nombre     | descripcion                               | precio | IVA  | fecha      |
++--------------+------------+-------------------------------------------+--------+------+------------+
+|            1 | Manzanas   | Manzanas ecológicas de temporada, frescas |   3.50 | 0.03 | 2024-03-30 |
+|            2 | Mandarinas | Acabadas de traer del huerto              |   3.50 | 0.03 | 2024-03-30 |
+|            3 | Naranjas   | De nuestro propio huerto                  |   4.50 | 0.10 | 2024-04-01 |
+|            4 | Limones    | De nuestro propio huerto                  |   4.50 | 0.10 | 2024-04-01 |
+|            6 | Kiwis      | kiwis ecológicos de mi casa               |   4.50 | 0.10 | 2024-05-01 |
+|            7 | Plátanos   | Ecológicos                                |   0.00 | 0.03 | 2024-04-05 |
++--------------+------------+-------------------------------------------+--------+------+------------+
+6 rows in set (0.000 sec)
+
+MariaDB [tienda]> UPDATE productos SET precio = 4.10 WHERE nombre = "Plátanos";
+Query OK, 1 row affected (0.002 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+MariaDB [tienda]> SELECT * FROM productos;
++--------------+------------+-------------------------------------------+--------+------+------------+
+| id_productos | nombre     | descripcion                               | precio | IVA  | fecha      |
++--------------+------------+-------------------------------------------+--------+------+------------+
+|            1 | Manzanas   | Manzanas ecológicas de temporada, frescas |   3.50 | 0.03 | 2024-03-30 |
+|            2 | Mandarinas | Acabadas de traer del huerto              |   3.50 | 0.03 | 2024-03-30 |
+|            3 | Naranjas   | De nuestro propio huerto                  |   4.50 | 0.10 | 2024-04-01 |
+|            4 | Limones    | De nuestro propio huerto                  |   4.50 | 0.10 | 2024-04-01 |
+|            6 | Kiwis      | kiwis ecológicos de mi casa               |   4.50 | 0.10 | 2024-05-01 |
+|            7 | Plátanos   | Ecológicos                                |   4.10 | 0.03 | 2024-04-05 |
++--------------+------------+-------------------------------------------+--------+------+------------+
+6 rows in set (0.001 sec)
+
+MariaDB [tienda]>  SELECT MAX(precio) FROM productos;
++-------------+
+| MAX(precio) |
++-------------+
+|        4.50 |
++-------------+
+1 row in set (0.001 sec)
+
+MariaDB [tienda]>  SELECT AVG(precio) FROM productos;
++-------------+
+| AVG(precio) |
++-------------+
+|    4.100000 |
++-------------+
+1 row in set (0.001 sec)
+
+MariaDB [tienda]>
